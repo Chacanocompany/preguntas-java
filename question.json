@@ -1,8 +1,8 @@
 {
-  "category": "Cultura",
-  "question": "¿Qué ingredintes se necesitan para hacer una michelada?",
-  "options": ["Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante", "Cerveza, lima/limón y limon", "Cerveza, sal, tabasco y lima/limón"],
-  "answer": 0,
+  "category": "Musica",
+  "question": "¿Nombre del guitarrista de Deep Purple?",
+  "options": ["Jimmy Page", "Tony Iommi", "Ritchie Blackmore"],
+  "answer": 2,
   "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
 }
 {
@@ -13,11 +13,11 @@
   "explanation": "el deporte conocido mundialmente como fútbol se formalizó en Inglaterra en el siglo XIX."
 }
 {
-  "category": "Cultura",
-  "question": "¿Qué ingredintes se necesitan para hacer una michelada?",
-  "options": ["Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante", "Cerveza, lima/limón y limon", "Cerveza, sal, tabasco y lima/limón"],
+  "category": "Arte",
+  "question": "¿En que año se pinto la 'Mona Lisa' de Leonardo Da Vinci?",
+  "options": ["1503", "1899", "1977"],
   "answer": 0,
-  "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
+  "explanation": "Hasta ahora, se pensaba que Leonardo da Vinci pintó la Mona Lisa entre 1503 y 1506. Desde este momento, la horquilla oficial se alarga trece años más: de 1503 a 1519."
 }
 {
   "category": "Cultura",
@@ -27,17 +27,16 @@
   "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
 }
 {
-  "category": "Cultura",
-  "question": "¿Qué ingredintes se necesitan para hacer una michelada?",
-  "options": ["Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante", "Cerveza, lima/limón y limon", "Cerveza, sal, tabasco y lima/limón"],
-  "answer": 0,
-  "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
+  "category": "Cine",
+  "question": "¿En que año se estreno Jurassic Park?",
+  "options": ["2001", "1993", "1989"],
+  "answer": 1,
+  "explanation": "Jurassic Park logró recaudar un total de 900 millones de dólares en los cines de todo el mundo en 1993."
 }
 {
-  "category": "Cultura",
-  "question": "¿Qué ingredintes se necesitan para hacer una michelada?",
-  "options": ["Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante", "Cerveza, lima/limón y limon", "Cerveza, sal, tabasco y lima/limón"],
-  "answer": 0,
-  "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
+  "category": "Historia",
+  "question": "¿En que año partio y termino la segunda guerra mundial?",
+  "options": ["14 de octubre de 1938 – 6 de enero de 1942", "1 de septiembre de 1939 – 2 de septiembre de 1945", "6 de octubre de 1941 – 10 de enero de 1945"],
+  "answer": 1,
+  "explanation": "La Segunda Guerra Mundial duró seis años, de 1939 a 1945."
 }
-
